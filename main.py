@@ -5,7 +5,7 @@ import streamlit as st
 import seaborn as sns
 import urllib
 from babel.numbers import format_currency
-from .func  import DataAnalyzer, BrazilMapPlotter
+from func  import DataAnalyzer, BrazilMapPlotter
 sns.set(style='dark')
 st.set_option('deprecation.showPyplotGlobalUse', False)
 

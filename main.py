@@ -1,11 +1,11 @@
 import pandas as pd
-import matplotlib.image as mpimg
 import matplotlib.pyplot as plt
-import streamlit as st
+import matplotlib.image as mpimg
 import seaborn as sns
+import streamlit as st
 import urllib
+from func import DataAnalyzer, BrazilMapPlotter
 from babel.numbers import format_currency
-from func  import DataAnalyzer, BrazilMapPlotter
 sns.set(style='dark')
 st.set_option('deprecation.showPyplotGlobalUse', False)
 

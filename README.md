@@ -12,7 +12,7 @@ Proyek ini dimaksudkan untuk melakukan proses analisis data pada E-Commerce Publ
 
 - **/dataset**: Dalam direktori ini terdapat data yang digunakan dalam proyek, dengan format .csv.
 - **/streamlit**: Dalam direktori ini terdapat main.py yang berfungsi untuk membuat dashboard hasil analisis data.
-- **Proyek_Analisis_Data.ipynb**: File ini yang digunakan untuk melakukan analisis data.
+- **Analisis_Data.ipynb**: File ini yang digunakan untuk melakukan analisis data.
 
 ## Instalasi
 
